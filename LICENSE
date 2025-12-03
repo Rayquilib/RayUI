@@ -1,34 +1,17 @@
-Rayyan Quantum AI Labs UI License (Custom MIT Variant)
+MIT License
 
-Copyright (c) 2024 Rayyan Quantum AI Labs
+Copyright (c) 2025 Rayyan Quantum AI Labs
 
-Permission is hereby granted, free of charge, to any person or organization 
-obtaining a copy of this software and associated documentation files (the 
-"Software"), to use the Software in their projects, including commercial 
-applications, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-PERMITTED USES:
-- Use in personal and commercial projects
-- Modification of components to suit your needs
-- Integration into client projects without limitation
-- Removal of attribution and addition of your own branding
-- Use in SaaS products
-- Distribution as part of your end product
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-RESTRICTIONS:
-- The Software may not be resold, redistributed, or sublicensed as a 
-  standalone product or component library
-- The Software may not be used to create competing UI libraries or 
-  component collections
-- The Software may not be integrated into website builders, page builders, 
-  or automated UI generation tools
-- The Software may not be licensed or sub-licensed to third parties
-
-ATTRIBUTION:
-While not required, attribution is appreciated. You may include a link to 
-https://rayui.so in your project's credits or documentation.
-
-DISCLAIMER:
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
@@ -36,5 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-For questions about this license, please contact us at https://rayui.so/contact
